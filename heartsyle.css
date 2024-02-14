@@ -150,14 +150,6 @@ ul {
     background-color: rgb(255, 244, 243)
   }
 
-li {
-    display: inline-block;
-}
-
-a {
-    display: block;
-    padding: 0;
-  }
 
 .radial-text-gradient {
     background: radial-gradient(circle, rgb(0, 0, 0), rgb(34, 27, 100));
